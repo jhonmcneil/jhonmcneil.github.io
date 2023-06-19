@@ -4,6 +4,7 @@ background-color: rgba(0, 0, 0, .1);
 background-blend-mode: multiply;
 background-repeat: no-repeat;
 background-size: cover;
+background-attachment: fixed;
 margin: 0;
 }
 .navbar {
